@@ -1,0 +1,12 @@
+com.example.assignment.app-jetified-window-java-1.0.0-beta04-0 C:\Users\akash\.gradle\caches\transforms-3\0738edd5f88f65e42d4602f987275a72\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.assignment.app-jetified-annotation-experimental-1.1.0-1 C:\Users\akash\.gradle\caches\transforms-3\369ba75e4c7f33583f011c220195f98e\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.assignment.app-jetified-window-1.0.0-beta04-2 C:\Users\akash\.gradle\caches\transforms-3\af20e7cd6b1badf1904ee00eac176264\transformed\jetified-window-1.0.0-beta04\res
+com.example.assignment.app-core-1.6.0-3 C:\Users\akash\.gradle\caches\transforms-3\b8203fe242bcd1c096ac2fef8b83226d\transformed\core-1.6.0\res
+com.example.assignment.app-debug-4 C:\Users\akash\flutterapps\CipherSchool\assignment\android\app\src\debug\res
+com.example.assignment.app-main-5 C:\Users\akash\flutterapps\CipherSchool\assignment\android\app\src\main\res
+com.example.assignment.app-pngs-6 C:\Users\akash\flutterapps\CipherSchool\assignment\build\app\generated\res\pngs\debug
+com.example.assignment.app-resValues-7 C:\Users\akash\flutterapps\CipherSchool\assignment\build\app\generated\res\resValues\debug
+com.example.assignment.app-rs-8 C:\Users\akash\flutterapps\CipherSchool\assignment\build\app\generated\res\rs\debug
+com.example.assignment.app-mergeDebugResources-9 C:\Users\akash\flutterapps\CipherSchool\assignment\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.assignment.app-mergeDebugResources-10 C:\Users\akash\flutterapps\CipherSchool\assignment\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.assignment.app-merged_res-11 C:\Users\akash\flutterapps\CipherSchool\assignment\build\app\intermediates\merged_res\debug
