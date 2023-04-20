@@ -1,16 +1,7 @@
-# assignment
+# Assignment-01-CipherSchools
+This is my submission for cipherschools internship.
 
-A new Flutter project.
+Here's a small demo of it
 
-## Getting Started
+https://user-images.githubusercontent.com/66449020/233442099-e566ba26-fa34-4d81-9842-47e41220873f.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
